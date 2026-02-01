@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/rs/zerolog/log"
-	"github.com/sjzar/chatlog/internal/chatlog/conf"
-	"github.com/sjzar/chatlog/internal/wechat"
-	"github.com/sjzar/chatlog/pkg/config"
-	"github.com/sjzar/chatlog/pkg/util"
+	"github.com/IMLR/chatlog/internal/chatlog/conf"
+	"github.com/IMLR/chatlog/internal/wechat"
+	"github.com/IMLR/chatlog/pkg/config"
+	"github.com/IMLR/chatlog/pkg/util"
 )
 
 const (

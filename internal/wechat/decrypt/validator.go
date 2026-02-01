@@ -3,8 +3,8 @@ package decrypt
 import (
 	"path/filepath"
 
-	"github.com/sjzar/chatlog/internal/wechat/decrypt/common"
-	"github.com/sjzar/chatlog/pkg/util/dat2img"
+	"github.com/IMLR/chatlog/internal/wechat/decrypt/common"
+	"github.com/IMLR/chatlog/pkg/util/dat2img"
 )
 
 type Validator struct {

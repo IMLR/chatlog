@@ -8,8 +8,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/sjzar/chatlog/internal/errors"
-	"github.com/sjzar/chatlog/internal/wechat/decrypt/common"
+	"github.com/IMLR/chatlog/internal/errors"
+	"github.com/IMLR/chatlog/internal/wechat/decrypt/common"
 
 	"golang.org/x/crypto/pbkdf2"
 )
